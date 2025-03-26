@@ -19,16 +19,13 @@ let ShakeEffectOn=null===localStorage.getItem("ShakeEffectOn")||"true"===localSt
 
 
 // Register your mod here
-var RegisterMod = "Unknow";
-var RegisterModVersion = "0.0.1";
-var ModDeveloper = "Developer";
+var RegisterMod = "The Seasons - Autumn";
+var RegisterModVersion = "0.1.5";
+var ModDeveloper = "Charlles";
 
 // Simple function for locked icons!
 function onLockedIcon(){
   boxDialog.open('This Icon is locked', 'LOCKED!')
 }
 
-function onV1Bonus1Finished(){ 
-  QuickMessage("Bonus Ended")
-  Shake(10, 500)
-}
+// Check examples.js for more functions and triggers!
