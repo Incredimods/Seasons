@@ -14,22 +14,22 @@ FORMATTING:
 
 <credits>
   <page 
-  noImage="true"
-  image=""
-  title="Credit Page"
-  text="You can edit this page inside (!italic/mod-credits/credits.xml file.)(!line) You can add more pages by copying the page tag and pasting it below the last page tag."
+  noImage="false"
+  image="mod-credits/02c_autumn-hd.png"
+  title="Thanks for playing Autumn!"
+  text="An Incredibox Mod by (!color/#ffd754/Charlles) with the help of:(!line) (!color/#bc8fff/ColdSeamer): some melodies animation and bonus assist.(!line) (!color/#5eabf7/Ters): animation and json assist.(!line) (!color/#02f7eb/Bonbonnet):design concepts.(!line) (!color/#02caf7/Rem): helping with code and build.(!line) (!color/#3275c7/GrungeMan): design concepts."
   />
   <page 
   noImage="false"
-  image="mod-credits/01c_remmie-hd.png"
-  title="Special Thanks!"
-  text="Incredibox Modding Build created with passion by (!color/#64b1e8/(!bold/Rem))! Love creative mods and unique sounds? Support her work and explore more on her channel! (!line)(!line)(!hr)(!line) (!button/#8f1e22/social_youtube.png/https://www.youtube.com/@rin.Incredibox//Rem's Channel)"
+  image="mod-credits/04c_autumn-hd.png"
+  title="Thanks to the legacy team!"
+  text="Artemiy Kopych, Looped, Brian, Horus and LTFD"
   />
   <page 
   noImage="false"
   image="mod-credits/03c_sofarsogood-hd.png"
   title="INCREDIBOX BY SO FAR SO GOOD!"
-  text="And of corse the official developers of Incredibox, (!bold/Allan), (!bold/Romain) and Incredible (!bold/Polo)! Without them, this project wouldn't exist! (!line)(!line)(!hr)(!line)Buy Official Incredibox for more fun and to support the team!(!line)(!line)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com//Incredibox Website)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com/info/store/Buy Incredibox)"
+  text="And of course the official developers of Incredibox, (!bold/Allan), (!bold/Romain) and Incredible (!bold/Polo)! Without them, this project wouldn't exist! (!line)(!line)(!hr)(!line)Buy Official Incredibox for more fun and to support the team!(!line)(!line)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com//Incredibox Website)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com/info/store/Buy Incredibox)"
   />
 </credits>
 
