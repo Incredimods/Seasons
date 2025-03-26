@@ -12,6 +12,6 @@ HOW TO USE IT:
 
 <icons>
   <line>
-    <icon name="Template" ID="1" color="#666" locked="false" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
+    <icon name="Autumn" ID="1" color="#dc9428" locked="false" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
   </line>
 </icons>
