@@ -6,7 +6,7 @@
   --box-bottom-height-int: 33;
   --box-top-height-pct: calc(var(--box-top-height-int) * 1%);
   --box-bottom-height-pct: calc(var(--box-bottom-height-int) * 1%);
-  --colV1: #9961b6;
+  --colV1: #faa200;
   --colV2: #762c29;
   --colV3: #3c3840;
   --colV4: #CD9459;
@@ -180,7 +180,6 @@ body {
   font-size: var(--normal-font-size);
   background-color: var(--col-general-bck);
   z-index: -999;
-  overflow: hidden;
 }
 body.black {
   background-color: #000 !important;
@@ -374,14 +373,14 @@ hr {
   width: 100%;
   height: calc(var(--sp-intro-scale) * 100px);
   pointer-events: none;
-  background-image: url(../img/title.svg);
+  background-image: url(../img/title-m.svg);
   background-repeat: no-repeat;
   background-position: calc(50% + calc(var(--sp-intro-scale) * 20px)) center;
   transform: translate(0, 0);
   right: 26px;
 }
 .darkmode #sp-intro #sp-title {
-  background-image: url(../img/title-darkmode.svg);
+  background-image: url(../img/title-m-darkmode.svg);
 }
 #sp-intro #sp-baseline {
   position: absolute;
@@ -3872,7 +3871,7 @@ input[type="text"].invalid {
     transform: translate(0, 0);
   }
 }
-.Shake {
+.shake {
   animation: animateShake 0.6s var(--easeOutBack) 0s;
 }
 @keyframes animateShake {
